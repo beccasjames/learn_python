@@ -23,4 +23,8 @@ genre = ['Action / Biography / Drama', 'Comedy / Drama', 'Drama', 'Adventure / C
 # Once all of your information is stored in lists, loop through those lists to print out information with each part separated by a comma, like this:
 
 for titles, parental_rating, bechdel_rating, imdb_rating, genre in zip(titles, parental_rating, bechdel_rating, imdb_rating, genre):
+<<<<<<< HEAD
     print "{0}, {1}, {2}, {3}, {4}".format(titles, parental_rating, bechdel_rating, imdb_rating, genre)
+=======
+    print "{0}, {1}, {2}, {3}, {4}".format(titles, parental_rating, bechdel_rating, imdb_rating, genre)
+>>>>>>> origin/master
